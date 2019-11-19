@@ -1,1 +1,1 @@
-workshop-ocp
+workshop-ocp 2.0
